@@ -41,6 +41,7 @@ Activate the environment before running any lab code:
 
 ```bash
 source .venv/bin/activate
+.venv\Scripts\Activate (on window)
 ```
 
 Use the Python interpreter inside this virtual environment for all your work.
